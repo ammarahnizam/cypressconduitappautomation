@@ -15,7 +15,7 @@ Open the frontend app in the browser: http://localhost:4100/
 
 Instructions for the current Repository:
 ==========================================
--- Use git clone to clone the current repository
+-- Make sure the pre-requistes are followed and both frontend and backend are running . Now use git clone to clone the current repository
 
 --Install yarn
 
