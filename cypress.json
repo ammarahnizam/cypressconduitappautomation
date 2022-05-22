@@ -1,0 +1,8 @@
+{
+    "defaultCommandTimeout": 60000,
+    "execTimeout": 60000,
+    "requestTimeout": 9000,
+    "responseTimeout": 90000,
+    "failOnStatusCode": false,
+    "chromeWebSecurity": false
+}
