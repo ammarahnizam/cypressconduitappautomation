@@ -25,4 +25,4 @@ Instructions for the current Repository:
 
 --Run command: yarn browser in order to run the tests in browser runner
 
---View paackage.json > scripts for commands
+--View package.json > scripts for commands
